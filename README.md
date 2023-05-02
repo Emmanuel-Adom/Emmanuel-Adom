@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" width=50% height=50% src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Adom&count_private=true&show_icons=true&theme=tokyonight"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Adom&count_private=true&show_icons=true&theme=tokyonight"/>
 
 <!--![C# coding GIF](/path/to/your/gif.gif "C# coding in action")-->
 
