@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Adom&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-<br><br><br>
+<br><br>
 ### <h2 align="left">Skills 📋</h2>
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
