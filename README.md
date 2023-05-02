@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Adom&count_private=true&show_icons=true&theme=tokyonight"/>
 
-<!--![C# coding GIF](/path/to/your/gif.gif "C# coding in action")-->
-
 ![codingInVSCode](https://user-images.githubusercontent.com/79058040/235599246-28473d3e-74bf-423f-bcd3-3814c8607d36.gif)
 
 
