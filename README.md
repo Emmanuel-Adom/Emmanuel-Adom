@@ -17,16 +17,18 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Adom&count_private=true&show_icons=true&theme=tokyonight"/>
+<img align="left" width=50% height=50% src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Adom&count_private=true&show_icons=true&theme=tokyonight"/>
 
-![C# coding GIF](/path/to/your/gif.gif "C# coding in action")
+<!--![C# coding GIF](/path/to/your/gif.gif "C# coding in action")-->
+
+![codingInVSCode](https://user-images.githubusercontent.com/79058040/235599246-28473d3e-74bf-423f-bcd3-3814c8607d36.gif)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Adom&layout=&langs_count=5)](https://github.com/Emmanuel-Adom)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Adom&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br>
 ### <h2 align="left">Skills 📋</h2>
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
