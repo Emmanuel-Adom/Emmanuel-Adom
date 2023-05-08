@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![codingInVSCode](https://user-images.githubusercontent.com/79058040/235599246-28473d3e-74bf-423f-bcd3-3814c8607d36.gif)
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Adom&layout=&langs_count=5)](https://github.com/Emmanuel-Adom)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Adom&layout=&langs_count=5)](https://github.com/Emmanuel-Adom)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Adom&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
