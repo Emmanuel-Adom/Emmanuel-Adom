@@ -1,4 +1,4 @@
-### <h2 align="left">Hi there 👋</h2> Emmanuel Adom here, welcome to my GitHub page...
+### <h2 align="left">Hi there 👋</h2> <h3>Welcome to my GitHub page...</h3>
 <br><br>
 
 <!--
