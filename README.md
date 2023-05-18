@@ -47,12 +47,19 @@ Here are some ideas to get you started:
 [![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 
-<br><br><br><br>
+<br><br>
 
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Adom&theme=dark)](https://git.io/streak-stats)
-<br><br><br><br>-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Adom&theme=dark)](https://git.io/streak-stats)
+<br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Emmanuel-Adom&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🌐 Socials: 
+[![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kemadom@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-adom)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/emkadom)
+
+
+
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Emmanuel-Adom&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
 
