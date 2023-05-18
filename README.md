@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 <br><br>
-### <h2 align="left">Skills 📋</h2>
+### <h2 align="left">Skills & Tools</h2>
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Adom&theme=dark)](https://git.io/streak-stats)
 <br><br>
 
-## 🌐 Socials: 
+## Socials: 
 [![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kemadom@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-adom)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/emkadom)
