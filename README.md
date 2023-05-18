@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Adom&theme=dark)](https://git.io/streak-stats)
 <br><br>
 
-## Socials: 
+## Reach me on: 
 [![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kemadom@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-adom)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/emkadom)
