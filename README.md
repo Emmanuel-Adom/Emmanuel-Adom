@@ -69,9 +69,10 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/emkadom)
 -->
 
-<br><br>
-<!--<br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Emmanuel-Adom&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+<!--
+<br><br><br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Emmanuel-Adom&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 
 
